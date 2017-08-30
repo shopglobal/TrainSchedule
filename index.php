@@ -80,7 +80,7 @@
     <script src="https://www.gstatic.com/firebasejs/3.9.0/firebase.js"></script>
 
     <script src="https://code.jquery.com/jquery-2.2.1.min.js"></script>
-    <script type="text/javascript" src="http://momentjs.com/downloads/moment.js"></script>
+    <script type="text/javascript" src="https://momentjs.com/downloads/moment.js"></script>
 
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
     <script type="text/javascript" src="assets/js/app.js"></script>
